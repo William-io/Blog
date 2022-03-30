@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EZF8kwDm7Xsx3wcqcYAzNW82tZoVNFd+3ccDLSGfSN6jb68Q13Jh5kJwSz28kcRghzHVMiSOh4SHvw6hPh2Sag==",
+  "dgSpecHash": "r4woAxbn6UXYwLNBDmmf4kcoi0UoOsUTNa1XWRsj3PEiWjTYCGR0TiDe4bLaPK1zBF6ezeK6Dr3OvfkzDiOzMA==",
   "success": true,
   "projectFilePath": "E:\\Source\\repos\\Code Snippets\\CSharp-Pattern\\Blog\\Blog.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\capul\\.nuget\\packages\\awssdk.core\\3.7.10.1\\awssdk.core.3.7.10.1.nupkg.sha512",
+    "C:\\Users\\capul\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.16\\awssdk.dynamodbv2.3.7.3.16.nupkg.sha512"
+  ],
   "logs": []
 }
